@@ -1,3 +1,4 @@
 # ArchdailyScraping
-Archdaily建筑图片爬虫
-# 编写中，未完成~
+Archdaily建筑高清原图下载爬虫
+# 单项目爬虫异常处理
+# 推送邮件自动解析下载

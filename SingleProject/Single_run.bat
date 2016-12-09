@@ -1,0 +1,2 @@
+python SingleProject.py 
+pause  
